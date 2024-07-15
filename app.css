@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -12,6 +15,7 @@ body, html {
     justify-content: center;
     align-items: center;
     overflow-x: hidden; 
+    font-family: 'Montserrat', sans-serif;
 }
 
 main {
@@ -45,6 +49,7 @@ main {
 
 .header {
     padding: 20px 0 0;
+    font-family: 'Fraunces', sans-serif;
 }
 
 .description {
@@ -61,12 +66,14 @@ main {
     font-size: 32px;
     gap: 15px;
     padding: 20px 0;
+    font-family: 'Fraunces', sans-serif;
 }
 
 .prices span {
     color: #6C7289;
     font-size: 16px;
     text-decoration: line-through;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .button {
