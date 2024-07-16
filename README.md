@@ -16,6 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Built with
 
+-   Figma design files
 -   Semantic HTML5 markup
 -   CSS custom properties
 -   Flexbox
